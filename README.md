@@ -1,5 +1,8 @@
 # Vefforritun 2, 2021, verkefni 5
 
+## Linkur á heroku
+https://verk5frettir.herokuapp.com/
+
 [Kynning á verkefni](https://youtu.be/EyRD1dVVDiU).
 
 ## Routing
