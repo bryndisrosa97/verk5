@@ -1,0 +1,29 @@
+
+.newsbox {
+  background-color: #f5f3e3;
+  border:1px solid black;
+  border-radius: 6px;
+  margin: 0.5rem;
+  padding-left: 0.25rem;
+  width: 28%;
+}
+
+.allnews {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.newsheadlines {
+  margin-bottom: 0.25rem;
+  margin-left: 0.1rem;
+  margin-right: 0.5rem;
+}
+
+.newslink {
+  font-weight: bold;
+  text-decoration: none;
+  color: rgb(83, 83, 83);
+}
+
